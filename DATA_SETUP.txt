@@ -1,0 +1,14 @@
+DATA SETUP
+==========
+
+Download the Kaggle "Formula 1 World Championship (1950 to 2020)" dataset
+by Rohan Rao.
+
+Copy these files into this project's data/ folder:
+
+    lap_times.csv
+    pit_stops.csv
+    results.csv
+    races.csv
+
+Then open F1_Lap_Time_Predictor.ipynb and Run All.
